@@ -33,10 +33,14 @@ I enjoy working on automation, cloud integration, and data-driven systems, and I
 Core Skills
 
 · Programming: Python, JavaScript, TypeScript, C++, Java, SQL
+
 · Web Development: HTML, CSS, Node.js, React, REST APIs, WebSockets
 · IoT & Embedded Systems: ESP32, Arduino, Sensors, Relay Modules, C/C++
+
 · Databases: MySQL, SQLite, MongoDB
+
 · DevOps & Tools: Git, GitHub, CI/CD, VS Code, Postman, Azure
+
 · Networking: Cisco CCNA (Routing & Switching, LAN/WAN Design)
 
 
@@ -70,7 +74,7 @@ Connect With Me
 
 Certifications & Training
 
-· Cisco Certified Network Associate (CCNA 1, 2)
+·Cisco Certified Network Associate (CCNA 1, 2)
 · AI-102 (Designing & Implementing an Azure AI Solution) – In Progress
 · PLC Programming & Industrial Automation
 
