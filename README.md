@@ -1,77 +1,78 @@
+
 Hi, I'm Thebe Ledwaba
 
-Computer Systems Engineering Graduate
-Bridging the gap between hardware and software through innovation.
+Computer Systems Engineering Graduate |IoT & Full-Stack Developer | Hardware–Software Integration Enthusiast
+Based in South Africa
 
-I’m passionate about building solutions that connect the physical and digital worlds combining IoT, full-stack development, and automation to create intelligent, secure, and scalable systems.
+Currently Expanding Into
 
-Technical Stack
-Hardware & Embedded Systems
+C# | .NET | Blazor | ASP.NET Core
+Building on my strong foundation in TypeScript, JavaScript, and systems programming to rapidly contribute to .NET environments
 
-Languages: C, C++
+About Me
 
-Platforms: Arduino, ESP32, Robotics, Bluetooth Systems
+I'm a passionate Computer Systems Engineering graduate with hands-on experience in IoT systems, embedded projects, and full-stack web development.
+My focus is on bridging the gap between hardware and software, creating efficient systems that are both smart and scalable.
 
-Expertise: IoT Protocols, Sensor Integration, Circuit Design
+I enjoy working on automation, cloud integration, and data-driven systems, and I'm continuously exploring new technologies in AI, networking, and industrial IT.
 
-Full-Stack Development
+💻 Software Development Projects
 
-Languages & Frameworks: JavaScript, TypeScript, Node.js, React
+🔹 CI-CD-node.js-App
+➡ Professional DevOps pipeline demonstrating modern development practices and deployment automation
 
-Databases: MongoDB, MySQL
+🔹 Hardware-Secure IoT Sentinel
+➡ Cybersecurity-focused full-stack application with real-time threat monitoring and automated response
 
-Other: REST APIs, WebSockets, Real-Time Applications
+🔹 buildflow & circuitforge-pro
+➡ Complex TypeScript applications showcasing scalable architecture and full-stack development patterns
 
-Security & Automation
+🔹 Weather-Data-Pipeline-Dashboard
+➡ Backend data processing and visualization system demonstrating data-driven application development
 
-System Security | Network Security | Encryption
+Core Skills
 
-CI/CD Pipelines | Access Control | Process Automation
+· Programming: Python, JavaScript, TypeScript, C++, Java, SQL
+· Web Development: HTML, CSS, Node.js, React, REST APIs, WebSockets
+· IoT & Embedded Systems: ESP32, Arduino, Sensors, Relay Modules, C/C++
+· Databases: MySQL, SQLite, MongoDB
+· DevOps & Tools: Git, GitHub, CI/CD, VS Code, Postman, Azure
+· Networking: Cisco CCNA (Routing & Switching, LAN/WAN Design)
 
-Featured Projects
-Hardware-Secure IoT Sentinel
 
-A full-stack IoT monitoring system with real-time threat detection and automated response.
+Featured IoT & Embedded Projects
 
-Robotic Car with Bluetooth & Obstacle Avoidance
+🔹 Smart Inventory Tracking System
+➡ ESP32 + QR/Barcode + OpenCV + MySQL + Express.js
 
-An autonomous robotic vehicle featuring Bluetooth control and obstacle detection algorithms.
+🔹 Smart Security System
+➡ PIR + Ultrasonic sensors + Wi-Fi alerts with email notifications
 
-Enterprise Network Infrastructure Project
-
-A secure and scalable enterprise network designed using professional networking standards.
+🔹 Traffic Light Simulation (Arduino)
+➡ Embedded system simulation using Wokwi
 
 Career Interests
 
-🔹 Software Engineering (Full Stack & Backend)
-
+🔹 Software Engineering (Full Stack & Backend) - Expanding into .NET ecosystem
 🔹 Embedded Systems & IoT Solutions
-
 🔹 Cloud Computing & AI Integration
-
 🔹 Network Automation & Security
-
 🔹 Smart Systems Design (Hardware + Software Fusion)
-
-Certifications & Training
-
-Cisco Certified Network Associate (CCNA 1, 2)
-
-AI-102 (Designing & Implementing an Azure AI Solution) – In Progress
-
-PLC Programming & Industrial Automation
-
-Full Stack JavaScript Development (Learnership)
-
-GitHub Stats
-
-
-Total Commits (2025): 91
 
 Connect With Me
 
-🔗 LinkedIn: linkedin.com/in/thebeledwaba
+🌐 Portfolio: thebeledwabawebsite.netlify.app
+💼 LinkedIn: linkedin.com/in/thebe-ledwaba
+💻 GitHub: github.com/ThebeLedwaba
+🔧 IoT Simulations: wokwi.com/projects/437980445327438849
+📧 Email: thebeledwaba@gmail.com
 
-🌐 Portfolio: https://thebeledwabawebsite.netlify.app
 
-✉️ Email: thebeledwaba@gmail.com
+Certifications & Training
+
+· Cisco Certified Network Associate (CCNA 1, 2)
+· AI-102 (Designing & Implementing an Azure AI Solution) – In Progress
+· PLC Programming & Industrial Automation
+
+⭐️ "Engineering the connection between code, circuits, and creativity."
+22+ projects demonstrating versatile problem-solving across full-stack web development, IoT systems, and embedded programming
