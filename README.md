@@ -1,87 +1,84 @@
 # Hi, I'm Thebe Ledwaba 👋
 
-**Computer Systems Engineering Graduate | IoT & Full-Stack Developer | Hardware–Software Integration Enthusiast**  
+**Computer Systems Engineering Graduate | Python Backend Developer | IoT & Embedded Systems Enthusiast**  
 📍 South Africa  
 
-I build smart, scalable systems that connect software, hardware, and cloud technologies. My work spans embedded IoT devices, backend APIs, automation tools, and full-stack applications. I'm passionate about solving real-world problems through efficient system design.
+I specialize in building backend systems, APIs, automation tools, and IoT-driven applications using **Python**, **Flask**, and **PostgreSQL**.  
+I enjoy connecting hardware and software to create data-driven, real-time systems.
 
 ---
 
-## 🚀 Currently Expanding Into  
-**C# | .NET | ASP.NET Core | Blazor**  
-Building on a strong foundation in Python, TypeScript, JavaScript, and systems programming to transition into modern backend and full-stack environments.
+## 🚀 Currently Developing Expertise In  
+**Python | Flask | PostgreSQL | REST APIs | System Automation**
+
+Expanding my backend skills through real projects involving monitoring systems, data pipelines, and IoT integration.
 
 ---
 
 ## 🧑‍💻 About Me  
-I'm a Computer Systems Engineering graduate with hands-on experience in:
+I'm a Computer Systems Engineering graduate with practical experience in:
 
-- IoT systems & sensor-based automation  
-- Backend and full-stack web development  
-- Embedded programming (ESP32, Arduino, C/C++)  
-- Data-driven systems & cloud integration  
+- Backend development using **Python + Flask**  
+- Databases and query design using **PostgreSQL**  
+- IoT systems with **ESP32, sensors, and embedded C/C++**  
+- REST API development and system monitoring  
+- Automation scripts and cloud integrations  
 
-I enjoy building solutions that fuse hardware and software—whether it's automation, monitoring systems, or full-stack applications.
+My focus is to build **scalable, efficient backend systems** and **IoT-enabled applications**.
 
 ---
 
 ## 💻 Highlighted Software Projects  
 
-### 🔹 **CI-CD-node.js-App**  
-Professional DevOps workflow demonstrating CI/CD pipelines, automated deployments, and modern development practices.
+### 🔹 **smartPrinterSystem (Python, Flask, PostgreSQL)**
+A real-time printer monitoring system that tracks events, logs data, manages alerts, and stores everything in a PostgreSQL database.
 
-### 🔹 **Hardware-Secure IoT Sentinel**  
-Security-focused IoT system with real-time monitoring, intrusion detection, and automated response logic.
+### 🔹 **Weather Data Pipeline Dashboard (Python)**
+A Python-based ETL flow that collects weather data, transforms it, and visualizes insights.
 
-### 🔹 **buildflow & circuitforge-pro**  
-Advanced TypeScript applications featuring clean architecture, modular services, and scalable design patterns.
+### 🔹 **CI-CD-node.js-App (Automation Project)**
+A demo application showcasing GitHub Actions pipelines and automated deployments.
 
-### 🔹 **Weather Data Pipeline Dashboard**  
-Python-based ETL pipeline for data ingestion, processing, and visualization dashboards.
+### 🔹 **SmartInventory (IoT + Backend)**
+Inventory tracking using ESP32, barcode/QR scanning, and a backend built with Express.js + MySQL.
 
 ---
 
 ## 🧰 Core Skills  
 
-### **Programming**
-Python • JavaScript • TypeScript • C++ • Java • SQL  
-
-### **Web Development**
-HTML • CSS • Node.js • Flask • React • REST APIs • WebSockets  
+### **Backend Development**
+Python • Flask • REST APIs • PostgreSQL • SQLAlchemy • Data Pipelines
 
 ### **IoT & Embedded Systems**
-ESP32 • Arduino • Sensors • MQTT • C/C++  
+ESP32 • Arduino • Sensors • C/C++ • MQTT • Microcontroller Integration
 
-### **Databases**
-MySQL • SQLite • MongoDB  
+### **Tools & DevOps**
+Git • GitHub • GitHub Actions • Postman • VS Code • Linux
 
-### **DevOps & Tools**
-Git • GitHub • CI/CD • Postman • Azure • Docker (beginner)  
-
-### **Networking**
-Cisco CCNA (Routing & Switching, LAN/WAN Design)
+### **Other Technical Exposure**
+JavaScript • TypeScript • Node.js • HTML • CSS
 
 ---
 
 ## 📡 Featured IoT & Embedded Projects  
 
-### 🔹 **Smart Inventory Tracking System**
-ESP32 + QR/Barcode scanning + OpenCV + MySQL + Express.js backend.
+### 🔹 **Smart Garden Monitoring System**
+Python + Raspberry Pi environmental monitoring with automated irrigation logic.
 
 ### 🔹 **Smart Security System**
-PIR + ultrasonic sensors + Wi-Fi alerts + real-time email notifications.
+PIR and ultrasonic sensor array with Wi-Fi alerts and rule-based triggers.
 
-### 🔹 **Traffic Light Simulation (Arduino/Wokwi)**
-Embedded system simulation with timing logic and sensor control.
+### 🔹 **Robotic Car (Bluetooth + Obstacle Avoidance)**
+Embedded C++ logic with sensor-based pathing.
 
 ---
 
 ## 🎯 Career Interests  
-- Backend & Full-Stack Software Engineering (Python + .NET)  
-- Embedded Systems & IoT Solutions  
-- Cloud Computing & AI Integration  
-- Network Automation & Security  
-- Smart System Architecture (Hardware + Software Fusion)
+- Backend Software Engineering (Python + Databases)  
+- IoT Systems & Automation  
+- API Development & Data Engineering  
+- Embedded + Cloud Integrated Solutions  
+- System Monitoring & Real-Time Analytics  
 
 ---
 
@@ -95,11 +92,11 @@ Embedded system simulation with timing logic and sensor control.
 ---
 
 ## 📜 Certifications & Training  
-- Cisco Certified Network Associate (CCNA 1, 2)  
-- AI-102: Designing & Implementing Azure AI Solutions (In Progress)  
+- Cisco CCNA (Modules 1 & 2)  
 - PLC Programming & Industrial Automation  
+- AI-102 (Azure AI) — *In Progress*  
 
 ---
 
-⭐ _"Engineering the connection between code, circuits, and creativity."_  
-Over **22+ projects** demonstrating strong problem-solving across full-stack development, IoT systems, and embedded computing.
+⭐ _"Building smart systems, one Python script at a time."_  
+Over **22+ projects** across backend development, database systems, IoT, and automation.
