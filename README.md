@@ -18,40 +18,39 @@
 
 Computer Systems Engineering graduate focused on **backend software development** using **Python**, **JavaScript**, and **TypeScript**.
 
-I build **scalable APIs**, **database-driven systems**, and **automation pipelines**, with strong experience in **PostgreSQL**, RESTful services, and backend system design.  
-My background also includes IoT and hardware–software integration, which strengthens my systems thinking, but my primary focus is **backend engineering**.
+I build **scalable APIs**, **database-driven systems**, and **automation workflows**, primarily using **PostgreSQL**, RESTful services, and modern backend frameworks. My background in systems and hardware integration strengthens my ability to design reliable, end-to-end solutions.
 
 ---
 
 ## ⭐ Top Projects (Recruiter Priority)
 
-### 🖨️ smartPrinterSystem *(Top Project #1)*
-Backend system for real-time printer monitoring with event logging, alerts, and REST APIs.  
-**Tech:** Python · Flask · PostgreSQL  
+### 🗂️ smartInventory *(Top Project #1)*
+Backend-driven inventory management system designed for data integrity, scalability, and clean API design.  
+**Tech:** TypeScript · Node.js · Express · PostgreSQL  
 
-- Real-time status tracking  
-- Structured relational database design  
-- Backend-first architecture  
-
----
-
-### 🌦️ Weather Data Pipeline Dashboard *(Top Project #2)*
-End-to-end backend ETL pipeline for ingesting, processing, and storing weather data.  
-**Tech:** Python · Data Pipelines · PostgreSQL  
-
-- Data extraction & transformation  
-- Backend data modelling  
-- Foundation for analytics & dashboards  
+- RESTful API architecture  
+- Relational database modelling  
+- Backend validation and error handling  
 
 ---
 
-### ⚙️ CI-CD-node.js-App *(Top Project #3)*
-Automated CI/CD pipeline demonstrating modern backend delivery workflows.  
+### ⚙️ CI-CD-node.js-App *(Top Project #2)*
+Automated CI/CD pipeline showcasing modern backend delivery and deployment practices.  
 **Tech:** JavaScript · GitHub Actions  
 
-- Build & deployment automation  
-- Clean repository structure  
-- Practical CI/CD fundamentals  
+- Build, test, and deployment workflows  
+- Repository-level automation  
+- Practical CI/CD fundamentals for backend teams  
+
+---
+
+### 🏗️ buildflow *(Top Project #3)*
+Backend-focused application demonstrating structured system design and TypeScript-based services.  
+**Tech:** TypeScript · Node.js · PostgreSQL  
+
+- Modular backend architecture  
+- Strong typing with TypeScript  
+- Backend service orchestration  
 
 ---
 
@@ -62,10 +61,10 @@ Automated CI/CD pipeline demonstrating modern backend delivery workflows.
 - JavaScript & TypeScript (Node.js, Express)  
 
 **Backend Engineering**
-- RESTful API design  
+- RESTful API development  
 - PostgreSQL & SQL  
 - Data modelling & validation  
-- SQLAlchemy & backend abstractions  
+- ORM & backend abstractions  
 
 **Engineering Practices**
 - Git & GitHub  
