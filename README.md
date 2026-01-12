@@ -14,7 +14,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 Computer Systems Engineering graduate focused on **backend software development** using **Python**, **JavaScript**, and **TypeScript**.
 
@@ -22,7 +22,7 @@ I build **scalable APIs**, **database-driven systems**, and **automation workflo
 
 ---
 
-## ⭐ Top Projects (Recruiter Priority)
+## Top Projects (Recruiter Priority)
 
 ### 🗂️ smartInventory *(Top Project #1)*
 Backend-driven inventory management system designed for data integrity, scalability, and clean API design.  
