@@ -1,91 +1,114 @@
-# Thebe Ledwaba  
-**Graduate Backend Software Engineer | Python & PERN Stack**  
-📍 South Africa  
+# Thebe Ledwaba
 
-![Python](https://img.shields.io/badge/Python-Backend-blue?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-Backend-blue?logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational_DB-blue?logo=postgresql&logoColor=white)
+**Graduate Backend Software Engineer | Python & PERN Stack**
+📍 South Africa
+
+![Python](https://img.shields.io/badge/Python-Backend-blue?logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Backend-3178C6?logo=typescript\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational_DB-336791?logo=postgresql\&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-Backend-green)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-black?logo=githubactions)
 
-🔗 Portfolio: https://thebeledwabawebsite.netlify.app  
-🔗 GitHub | LinkedIn  
+🔗 **Portfolio:** [https://thebeledwabawebsite.netlify.app](https://thebeledwabawebsite.netlify.app)
+
 
 ---
 
 ## About Me
 
-Computer Systems Engineering graduate focused on **backend software development** using **Python**, **JavaScript**, and **TypeScript**.
+I’m a **Computer Systems Engineering graduate** focused on **backend software engineering** and building **reliable, production-ready systems**.
 
-I build **scalable APIs**, **database-driven systems**, and **automation workflows**, primarily using **PostgreSQL**, RESTful services, and modern backend frameworks. My background in systems and hardware integration strengthens my ability to design reliable, end-to-end solutions.
+I specialize in:
 
----
+* Designing **RESTful APIs**
+* Building **database-driven backend systems**
+* Developing **automation and monitoring platforms**
 
-## Top Projects (Recruiter Priority)
-
-### 🗂️ smartInventory *(Top Project #1)*
-Backend-driven inventory management system designed for data integrity, scalability, and clean API design.  
-**Tech:** TypeScript · Node.js · Express · PostgreSQL  
-
-- RESTful API architecture  
-- Relational database modelling  
-- Backend validation and error handling  
+My background in **systems, networking, and hardware integration** allows me to think beyond CRUD applications and design software that interacts with real-world infrastructure.
 
 ---
 
-### ⚙️ CI-CD-node.js-App *(Top Project #2)*
-Automated CI/CD pipeline showcasing modern backend delivery and deployment practices.  
-**Tech:** JavaScript · GitHub Actions  
+## 🏆 Featured Projects
 
-- Build, test, and deployment workflows  
-- Repository-level automation  
-- Practical CI/CD fundamentals for backend teams  
+### 🖨️ Smart Printer System *(Enterprise Edition)*
 
----
+**Enterprise-grade monitoring and analytics platform for network printers** used in IT and managed service environments.
 
-### 🏗️ buildflow *(Top Project #3)*
-Backend-focused application demonstrating structured system design and TypeScript-based services.  
-**Tech:** TypeScript · Node.js · PostgreSQL  
+**Tech:** Python · Flask · PostgreSQL · SNMP
 
-- Modular backend architecture  
-- Strong typing with TypeScript  
-- Backend service orchestration  
+* Real-time printer monitoring (SNMP & ICMP)
+* Role-Based Access Control (Admin, Technician, Auditor)
+* Automated alerts, audit logs, and PDF/CSV reporting
+* Strong focus on backend reliability and system observability
+
+🔗 Repository: `smartPrinterSystem`
 
 ---
 
-## 🧠 Core Backend Skills
+### 🗂️ Smart Inventory System
+
+**Scalable inventory management backend** focused on data integrity, analytics, and clean API design.
+
+**Tech:** TypeScript · Node.js · Express · PostgreSQL
+
+* RESTful API architecture
+* Advanced relational database modeling
+* Inventory analytics and CSV import automation
+
+🔗 Repository: `smartInventory`
+
+---
+
+### ⚙️ CI/CD Node.js Pipeline
+
+**Automated CI/CD pipeline** demonstrating modern backend delivery practices.
+
+**Tech:** JavaScript · GitHub Actions
+
+* Automated build, test, and deployment workflows
+* Repository-level CI/CD automation
+* Practical DevOps fundamentals for backend teams
+
+🔗 Repository: `CI-CD-node.js-App`
+
+---
+
+## Core Backend Skills
 
 **Languages & Frameworks**
-- Python (Flask)  
-- JavaScript & TypeScript (Node.js, Express)  
+
+* Python (Flask)
+* JavaScript & TypeScript (Node.js, Express)
 
 **Backend Engineering**
-- RESTful API development  
-- PostgreSQL & SQL  
-- Data modelling & validation  
-- ORM & backend abstractions  
+
+* RESTful API design
+* PostgreSQL & SQL
+* Data modeling & validation
+* Authentication & RBAC
 
 **Engineering Practices**
-- Git & GitHub  
-- CI/CD with GitHub Actions  
-- Linux-based development  
-- API testing with Postman  
+
+* Git & GitHub
+* CI/CD with GitHub Actions
+* Linux-based development
+* API testing (Postman)
 
 ---
 
-## 🎯 Career Interests
+## Career Interests
 
-- Graduate / Junior Backend Software Engineer  
-- Backend API & Data Engineering  
-- PERN Stack Development  
-
----
-
-## 📫 Contact
-
-📧 **thebeledwaba@gmail.com**
+* Graduate / Junior Backend Software Engineer
+* Backend API & Data Engineering roles
+* Python, Node.js & PERN Stack development
 
 ---
 
-⭐ *Focused on building reliable backend systems with Python and modern JavaScript.*
+## Contact
+
+📧 **[thebeledwaba@gmail.com](mailto:thebeledwaba@gmail.com)**
+
+---
+
+⭐ *Focused on building backend systems that are secure, scalable, and grounded in real-world infrastructure.*
