@@ -7,7 +7,7 @@
 🔗 **LinkedIn:** linkedin.com/in/thebe-ledwaba
 
 ## 👨‍💻 About Me
-I'm a Computer Systems Engineering graduate with 2+ years of professional experience building full-stack applications and automation infrastructure. My background in systems engineering gives me a holistic approach to software development—from backend APIs to deployment pipelines and infrastructure automation.
+I'm a Computer Systems Engineering graduate with 1+ years of professional experience building full-stack applications and automation infrastructure. My background in systems engineering gives me a holistic approach to software development from backend APIs to deployment pipelines and infrastructure automation.
 
 **Currently:** Expanding my DevOps skills with Terraform and preparing for AZ-400 certification.
 
@@ -80,7 +80,6 @@ I'm a Computer Systems Engineering graduate with 2+ years of professional experi
 
 ## 📫 Contact
 - **Email:** thebeledwaba@gmail.com
-- **Phone:** 079 187 6152
 - **Location:** Johannesburg, Gauteng, South Africa
 
 ⭐ **Building systems that are reliable, scalable, and solve real-world problems.**
