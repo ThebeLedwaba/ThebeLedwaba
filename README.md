@@ -1,85 +1,151 @@
 # Thebe Ledwaba
-**Systems Engineer | Full Stack Development & DevOps** 📍 Johannesburg, South Africa
+**Junior Systems Engineer | Embedded Systems & Software Developer**  
+📍 Johannesburg, South Africa | Open to Relocation
 
-`Python` `JavaScript` `TypeScript` `Azure` `Docker` `PostgreSQL` `CI/CD` `Terraform`
+`C++` `C#` `Python` `Embedded Systems` `IoT` `Azure` `Docker` `PostgreSQL` `CI/CD`
 
 🔗 **Portfolio:** https://thebeledwabawebsite.netlify.app  
-🔗 **LinkedIn:** linkedin.com/in/thebe-ledwaba
+🔗 **LinkedIn:** https://linkedin.com/in/thebe-ledwaba  
+🔗 **GitHub:** https://github.com/ThebeLedwaba
 
-## 👨‍💻 About Me
-I'm a Computer Systems Engineering graduate with 1+ years of professional experience building full-stack applications and automation infrastructure. My background in systems engineering gives me a holistic approach to software development from backend APIs to deployment pipelines and infrastructure automation.
+---
 
-**Currently:** Expanding my DevOps skills with Terraform and preparing for AZ-400 certification.
+## 🎯 Profile
+Computer Systems Engineering graduate focused on building **practical end-to-end systems**, from embedded devices to backend services and cloud deployment. Interested in roles that involve hardware/software integration, system reliability, and hands-on development across the stack.
 
-## 🏆 Featured Projects
+Currently seeking junior opportunities in embedded software, systems engineering, and IoT-related roles.
 
-### 🚀 Production CI/CD Pipeline
-**End-to-end automation pipeline demonstrating modern DevOps practices**
-`GitHub Actions` `Docker` `Azure` `Grafana` `Node.js`
+---
 
-- Built complete CI/CD pipeline with automated testing, security scanning, and deployment
-- Implemented Docker multi-stage builds for optimized container images
-- Deployed to Azure with integrated monitoring using Grafana dashboards
-- Demonstrates Infrastructure as Code principles and automated workflow design
+## 🏗️ Core Skills
 
-🔗 **Repository:** [CI-CD-node.js-App](https://github.com/ThebeLedwaba/CI-CD-node.js-App)
+### Embedded Systems & IoT
+- Embedded programming using C++ and Python  
+- Microcontroller-based projects and hardware interfacing  
+- Sensor integration and data acquisition  
+- Communication protocols: SPI, I2C, UART, HTTP, MQTT, SNMP  
+- Basic real-time and device-level programming concepts  
+
+### Backend & Software Development
+- C#/.NET backend services  
+- Python APIs using Flask and FastAPI  
+- REST API development  
+- React and TypeScript fundamentals  
+- Relational databases: PostgreSQL, SQL Server  
+
+### Cloud & DevOps
+- Microsoft Azure fundamentals (AZ-204 in progress)  
+- Docker and containerized applications  
+- GitHub Actions CI/CD pipelines  
+- Infrastructure basics using Terraform  
+- Logging and monitoring exposure using Grafana and Prometheus  
+
+### Systems Engineering Foundations
+- Requirements analysis and documentation  
+- Hardware/software integration  
+- Debugging and testing workflows  
+- Technical documentation and reporting  
+
+---
+
+## 🚀 Featured Projects
+
+### 🛰️ Sentinel Industrial IoT System
+Hands-on hardware-to-cloud monitoring project demonstrating multi-component system integration.
+
+**Components:**
+- **Embedded Controller (C++)**  
+  - Collects and processes sensor data  
+  - Implements hardware communication concepts  
+
+- **Telemetry Bridge (Python)**  
+  - Handles data forwarding and protocol translation  
+  - Introduces secure message transmission concepts  
+
+- **Monitoring Backend (C#/.NET)**  
+  - Receives telemetry data  
+  - Provides APIs for dashboards and alerts  
+
+**What this project demonstrates:**
+- Hardware and backend integration  
+- End-to-end system workflow  
+- Multi-language, multi-service development  
+
+🔗 Repositories:  
+- https://github.com/ThebeLedwaba/Sentinel-IIoT-Controller  
+- https://github.com/ThebeLedwaba/Secure-IoT-Telemetry-Bridge-for-Industrial-Environments  
+- https://github.com/ThebeLedwaba/Sentinel-Monitoring  
+
+---
 
 ### 🖨️ Smart Printer Monitoring System
-**Enterprise-grade IoT monitoring platform with hardware integration**
-`Python` `Flask` `PostgreSQL` `SNMP` `React`
+IoT monitoring platform with device telemetry and a web-based dashboard.
 
-- Developed full-stack solution for real-time printer monitoring and management
-- Integrated hardware via SNMP protocol for device telemetry collection
-- Implemented automated alerts, scheduled jobs, and role-based access control
-- Built production-ready system with security, audit logging, and reporting
+`Python` `Flask` `React` `PostgreSQL` `SNMP`
 
-🔗 **Repository:** [smartPrinterSystem](https://github.com/ThebeLedwaba/smartPrinterSystem)
+- Collects telemetry data from networked devices using SNMP  
+- Backend service with database integration  
+- Frontend dashboard for monitoring and alerts  
+- Demonstrates protocol integration and full-stack development  
 
-### 📊 Smart Inventory API
-**RESTful inventory management system with advanced features**
-`TypeScript` `Node.js` `Express` `PostgreSQL` `REST API`
+🔗 Repository:  
+https://github.com/ThebeLedwaba/smartPrinterSystem  
 
-- Designed scalable RESTful API architecture with TypeScript
-- Implemented advanced filtering, search, and reporting capabilities
-- Focus on data integrity, validation, and clean backend design
-- Demonstrates production backend development practices
+---
 
-🔗 **Repository:** [smartInventory](https://github.com/ThebeLedwaba/smartInventory)
+### 🌩️ Cloud Infrastructure Automation Tool
+Learning-focused project exploring cloud automation and DevOps concepts.
 
-## 🛠️ Technical Skills
+`C#` `.NET` `Azure SDK` `Terraform` `Docker`
 
-### **Full Stack Development**
-- **Languages:** Python, JavaScript, TypeScript
-- **Backend:** Flask, FastAPI, Node.js, Express.js
-- **Frontend:** React, HTML5, CSS3
-- **Databases:** PostgreSQL, SQL, Data Modeling
+- Automates cloud deployment tasks  
+- Explores infrastructure automation and reliability concepts  
+- Demonstrates hands-on learning in the .NET and Azure ecosystem  
 
-### **DevOps & Cloud**
-- **Cloud Platforms:** Microsoft Azure (AZ-204 Certified)
-- **CI/CD:** GitHub Actions, Automated Pipelines
-- **Containerization:** Docker, Docker Compose
-- **Infrastructure:** Terraform (Learning), Linux/CLI
-- **Monitoring:** Grafana, Prometheus, System Observability
+🔗 Repository:  
+https://github.com/ThebeLedwaba/CloudDeployer-Self-Healing-Infrastructure  
 
-### **Systems Engineering**
-- API Design & Integration
-- Automation & Scripting (Python/Bash)
-- Network Protocols (SNMP/ICMP)
-- Hardware/Software Integration
+---
 
-## 📈 Certifications & Learning
-- **Microsoft Azure Developer Associate (AZ-204)** - Course Completed
-- **Cisco CCNA** - Networking Fundamentals
-- **Currently Learning:** Terraform, Kubernetes Fundamentals, AZ-400 DevOps
+## 🔧 Technical Toolkit
 
-## 🎯 Career Interests
-- **Junior/Mid-Level Software Engineer** (Full Stack)
-- **DevOps/Cloud Engineer** roles
-- **Systems Integration** positions
-- Opportunities in **Gauteng** (Hybrid/Remote available)
+### Languages
+- C++, C#, Python  
+- JavaScript / TypeScript  
+
+### Development Tools
+- Visual Studio, VS Code  
+- Git & GitHub workflows  
+- CMake, .NET CLI, npm  
+
+### Platforms & Infrastructure
+- Microsoft Azure (coursework and projects)  
+- Docker & Docker Compose  
+- PostgreSQL, SQL Server  
+
+---
+
+## 🎓 Education & Learning
+
+**Diploma / Advanced Diploma in Electrical Engineering (Computer Systems Engineering)**  
+- Embedded systems  
+- Digital electronics  
+- Systems integration  
+- Real-time programming concepts  
+
+### Certifications & Learning
+- Azure Developer Associate (AZ-204) — in progress  
+- AZ-400 DevOps Engineer — learning path  
+- CCNA — foundational networking knowledge  
+
+---
 
 ## 📫 Contact
-- **Email:** thebeledwaba@gmail.com
-- **Location:** Johannesburg, Gauteng, South Africa
+- Email: thebeledwaba@gmail.com  
+- LinkedIn: https://linkedin.com/in/thebe-ledwaba  
+- Location: Johannesburg, South Africa  
+- Status: Actively seeking junior engineering roles  
 
-⭐ **Building systems that are reliable, scalable, and solve real-world problems.**
+---
+
+⭐ Building practical systems that connect embedded devices with modern software platforms.
