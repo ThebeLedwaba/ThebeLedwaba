@@ -1,151 +1,77 @@
-# Thebe Ledwaba
-**Junior Systems Engineer | Embedded Systems & Software Developer**  
-📍 Johannesburg, South Africa | Open to Relocation
+# Thebe Ledwaba 
+### Software Engineer | Embedded Systems & IoT 
+**Johannesburg, South Africa | Open to Relocation**
 
-`C++` `C#` `Python` `Embedded Systems` `IoT` `Azure` `Docker` `PostgreSQL` `CI/CD`
-
-🔗 **Portfolio:** https://thebeledwabawebsite.netlify.app  
-🔗 **LinkedIn:** https://linkedin.com/in/thebe-ledwaba  
-🔗 **GitHub:** https://github.com/ThebeLedwaba
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=react)](https://thebeledwabawebsite.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/thebe-ledwaba)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:thebeledwaba@gmail.com)
 
 ---
 
-## 🎯 Profile
-Computer Systems Engineering graduate focused on building **practical end-to-end systems**, from embedded devices to backend services and cloud deployment. Interested in roles that involve hardware/software integration, system reliability, and hands-on development across the stack.
+## The Bridge Between Hardware & Software
+I am an **Electrical Engineering Graduate** who speaks both "Machine" and "Web." I specialize in building end-to-end systems: from low-level firmware and sensor integration to scalable cloud backends and interactive web dashboards.
 
-Currently seeking junior opportunities in embedded software, systems engineering, and IoT-related roles.
-
----
-
-## 🏗️ Core Skills
-
-### Embedded Systems & IoT
-- Embedded programming using C++ and Python  
-- Microcontroller-based projects and hardware interfacing  
-- Sensor integration and data acquisition  
-- Communication protocols: SPI, I2C, UART, HTTP, MQTT, SNMP  
-- Basic real-time and device-level programming concepts  
-
-### Backend & Software Development
-- C#/.NET backend services  
-- Python APIs using Flask and FastAPI  
-- REST API development  
-- React and TypeScript fundamentals  
-- Relational databases: PostgreSQL, SQL Server  
-
-### Cloud & DevOps
-- Microsoft Azure fundamentals (AZ-204 in progress)  
-- Docker and containerized applications  
-- GitHub Actions CI/CD pipelines  
-- Infrastructure basics using Terraform  
-- Logging and monitoring exposure using Grafana and Prometheus  
-
-### Systems Engineering Foundations
-- Requirements analysis and documentation  
-- Hardware/software integration  
-- Debugging and testing workflows  
-- Technical documentation and reporting  
+* **Current Focus:** Advanced Diploma in Electrical Engineering (Computer Systems).
+* **Actively Seeking:** Graduate opportunities in **Software Engineering**, **Embedded Systems**, or **Full-Stack IoT**.
+* **Value Prop:** I don't just write code; I understand the underlying electronics and the cloud infrastructure it lives on.
 
 ---
 
-## 🚀 Featured Projects
+## Technical Toolkit
 
-### 🛰️ Sentinel Industrial IoT System
-Hands-on hardware-to-cloud monitoring project demonstrating multi-component system integration.
+### **Software & Web Development**
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-**Components:**
-- **Embedded Controller (C++)**  
-  - Collects and processes sensor data  
-  - Implements hardware communication concepts  
-
-- **Telemetry Bridge (Python)**  
-  - Handles data forwarding and protocol translation  
-  - Introduces secure message transmission concepts  
-
-- **Monitoring Backend (C#/.NET)**  
-  - Receives telemetry data  
-  - Provides APIs for dashboards and alerts  
-
-**What this project demonstrates:**
-- Hardware and backend integration  
-- End-to-end system workflow  
-- Multi-language, multi-service development  
-
-🔗 Repositories:  
-- https://github.com/ThebeLedwaba/Sentinel-IIoT-Controller  
-- https://github.com/ThebeLedwaba/Secure-IoT-Telemetry-Bridge-for-Industrial-Environments  
-- https://github.com/ThebeLedwaba/Sentinel-Monitoring  
+### **Embedded & Systems Engineering**
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+* **Hardware:** Microcontrollers (ESP32/STM32/AVR), Sensor Integration, Digital Electronics.
+* **Protocols:** MQTT (IoT), SNMP (Networking), SPI, I2C, UART, REST APIs.
+* **DevOps:** Azure, Docker, Terraform, GitHub Actions, PostgreSQL.
 
 ---
 
-### 🖨️ Smart Printer Monitoring System
-IoT monitoring platform with device telemetry and a web-based dashboard.
+## Featured Projects
 
-`Python` `Flask` `React` `PostgreSQL` `SNMP`
+### [Sentinel Industrial IoT System](https://github.com/ThebeLedwaba/Sentinel-Monitoring)
+*A full-vertical monitoring ecosystem demonstrating multi-language integration.*
 
-- Collects telemetry data from networked devices using SNMP  
-- Backend service with database integration  
-- Frontend dashboard for monitoring and alerts  
-- Demonstrates protocol integration and full-stack development  
+- **Embedded (C++):** Firmware for sensor data collection and hardware logic.
+- **Middleware (Python):** Secure telemetry bridge for protocol translation.
+- **Backend (.NET):** High-performance API for data processing and storage.
+- **Goal:** Proving reliability in industrial-grade "Hardware-to-Cloud" workflows.
 
-🔗 Repository:  
-https://github.com/ThebeLedwaba/smartPrinterSystem  
+### [Smart Printer Monitoring System](https://github.com/ThebeLedwaba/smartPrinterSystem)
+*Real-time device fleet monitoring using SNMP and modern web tech.*
+- **Frontend:** **React/JavaScript** dashboard for real-time health visualization.
+- **Backend:** Python (Flask) with PostgreSQL for telemetry history.
+- **Core:** Automated network device discovery and alerting.
 
----
-
-### 🌩️ Cloud Infrastructure Automation Tool
-Learning-focused project exploring cloud automation and DevOps concepts.
-
-`C#` `.NET` `Azure SDK` `Terraform` `Docker`
-
-- Automates cloud deployment tasks  
-- Explores infrastructure automation and reliability concepts  
-- Demonstrates hands-on learning in the .NET and Azure ecosystem  
-
-🔗 Repository:  
-https://github.com/ThebeLedwaba/CloudDeployer-Self-Healing-Infrastructure  
+### [Cloud Infrastructure Automation](https://github.com/ThebeLedwaba/CloudDeployer-Self-Healing-Infrastructure)
+*Infrastructure-as-Code and reliability engineering.*
+- **Tech:** .NET, Azure SDK, Terraform, Docker.
+- **Focus:** Automated cloud deployment and self-healing systems.
 
 ---
 
-## 🔧 Technical Toolkit
-
-### Languages
-- C++, C#, Python  
-- JavaScript / TypeScript  
-
-### Development Tools
-- Visual Studio, VS Code  
-- Git & GitHub workflows  
-- CMake, .NET CLI, npm  
-
-### Platforms & Infrastructure
-- Microsoft Azure (coursework and projects)  
-- Docker & Docker Compose  
-- PostgreSQL, SQL Server  
+## GitHub Insights
+![Thebe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThebeLedwaba&show_icons=true&theme=radical&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThebeLedwaba&layout=compact&theme=radical)
 
 ---
 
-## 🎓 Education & Learning
-
-**Diploma / Advanced Diploma in Electrical Engineering (Computer Systems Engineering)**  
-- Embedded systems  
-- Digital electronics  
-- Systems integration  
-- Real-time programming concepts  
-
-### Certifications & Learning
-- Azure Developer Associate (AZ-204) — in progress  
-- AZ-400 DevOps Engineer — learning path  
-- CCNA — foundational networking knowledge  
+## Education & Certs
+* **Advanced Diploma (Electrical Engineering - Computer Systems)** — *In Progress*
+* **Diploma (Electrical Engineering - Computer Systems)** — *Completed*
+* **Certifications:** CCNA (Networking), AZ-204 (Azure Developer - *Candidate*), PLC Automation
 
 ---
 
-## 📫 Contact
-- Email: thebeledwaba@gmail.com  
-- LinkedIn: https://linkedin.com/in/thebe-ledwaba  
-- Location: Johannesburg, South Africa  
-- Status: Actively seeking junior engineering roles  
-
----
-
-⭐ Building practical systems that connect embedded devices with modern software platforms.
+## Let's Connect!
+Whether it's a **React** dashboard, a **.NET** service, or **C++** firmware I'm ready to build it.
+[LinkedIn](https://linkedin.com/in/thebe-ledwaba) | [Email](mailto:thebeledwaba@gmail.com)
