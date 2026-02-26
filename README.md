@@ -13,7 +13,7 @@ I am an **Electrical Engineering Graduate** who speaks both "Machine" and "Web."
 
 * **Current Focus:** Advanced Diploma in Electrical Engineering (Computer Systems).
 * **Actively Seeking:** Graduate opportunities in **Software Engineering**, **Embedded Systems**, or **Full-Stack IoT**.
-* **Value Prop:** I don't just write code; I understand the underlying electronics and the cloud infrastructure it lives on.
+* **Value Prop:** I don't just write code I understand the underlying electronics and the cloud infrastructure it lives on.
 
 ---
 
