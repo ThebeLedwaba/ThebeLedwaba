@@ -106,8 +106,8 @@ A demonstration of modern DevOps practices with automated build, test, and deplo
 
 | Qualification | Institution | Status |
 |---|---|---|
-| Advanced Diploma — Electrical Engineering (Computer Systems) | — | In Progress (2026) |
-| Diploma — Electrical Engineering (Computer Systems) | — | Completed |
+| Advanced Diploma —  Computer Systems Engineering| — | In Progress (2026) |
+| Diploma — Computer Systems Engineering| — | Completed |
 | CCNA — Cisco Certified Network Associate | Cisco | Completed |
 | AZ-204 — Azure Developer Associate | Microsoft | In Progress |
 | PLC Automation | — | Completed |
