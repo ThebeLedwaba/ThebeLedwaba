@@ -1,130 +1,147 @@
+<div align="center">
+
 # Thebe Ledwaba
 
-### Software Engineer | Systems & Backend Development
+### Software Engineer · Embedded Systems · ML & Data
+
 **Johannesburg, South Africa &nbsp;|&nbsp; Open to Relocation**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=react)](https://thebeledwabawebsite.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/thebe-ledwaba)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:thebeledwaba@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thebe-ledwaba)
+[![Email](https://img.shields.io/badge/Email-thebeledwaba@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thebeledwaba@gmail.com)
+
+</div>
 
 ---
 
-## Professional Summary
+## About Me
 
-I am a Software Engineer with a strong foundation in both software development and electrical engineering systems. My background in Computer Systems Engineering gives me a depth of understanding that spans backend development, cloud infrastructure, embedded systems, and network-level thinking — allowing me to design and build solutions that are robust from the ground up.
+Final-year **Advanced Diploma student in Computer Systems Engineering** (NQF 7) at Vaal University of Technology, with ~1 year of corporate experience building industrial IoT systems at **Scaw Metals Group** (ESP32, MQTT, REST APIs, MariaDB).
 
-I bring hands-on experience from a corporate internship environment where I worked on backend systems, REST APIs, test automation, CI/CD pipelines, and Linux server administration. I am currently completing my Advanced Diploma in Electrical Engineering (Computer Systems) and actively seeking a junior Software Engineering role where I can contribute immediately and grow into a senior engineering position.
+I work across the full stack — from bare-metal firmware and RTOS design to cloud-connected backends and ML pipelines. My strength is building systems end-to-end, not just writing code in isolation.
 
----
-
-## Technical Skills
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### DevOps & Cloud
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### Testing & Automation
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-### Embedded & Hardware
-![C++](https://img.shields.io/badge/Firmware_C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
+-  **Embedded:** ESP32, STM32, AVR — bare-metal C, FreeRTOS, custom RTOS from scratch
+-  **Full-Stack:** React, Node.js, Python/FastAPI/Flask, PostgreSQL, Docker, Azure
+-  **ML & Data:** TensorFlow/Keras, TF-IDF, KMeans, LSTM/GRU time-series forecasting
+-  **Protocols:** MQTT, SPI, I2C, UART, CAN, REST, ESP-NOW
+-  **Certs:** CCNA · AZ-900 · IKM Embedded C (97th percentile)
 
 ---
 
 ## Featured Projects
 
-### [Sentinel Industrial IoT System](https://github.com/ThebeLedwaba/Sentinel-Monitoring)
-A full-vertical monitoring ecosystem demonstrating end-to-end hardware-to-cloud integration.
-- **Firmware (C++):** Sensor data collection and embedded hardware logic
-- **Middleware (Python):** Secure telemetry bridge for protocol translation
-- **Backend (.NET):** High-performance API for data processing and storage
-- **Stack:** C++, Python, .NET, Azure, MQTT
+###  [ThebeRTOS-AVR](https://github.com/ThebeLedwaba/ThebeRTOS-AVR)
+> Preemptive RTOS built from scratch for ATmega328P in C and AVR assembly
+
+- Priority-based round-robin scheduler with full context switching
+- IPC primitives: mutex with priority inheritance, semaphores, message queues
+- Stack canary detection, zero dynamic allocation, deterministic memory model
+- `C` `AVR Assembly` `ATmega328P` `Embedded Systems`
 
 ---
 
-### [Smart Printer Monitoring System](https://github.com/ThebeLedwaba/smartPrinterSystem)
-Real-time network device fleet monitoring using SNMP and modern web technologies.
-- **Backend:** Python (Flask) with PostgreSQL for telemetry storage and history
-- **Frontend:** React/JavaScript dashboard for real-time health visualisation
-- **Core:** Automated network device discovery, polling, and alerting
-- **Stack:** Python, Flask, PostgreSQL, React, SNMP
+###  [AgriEdge](https://github.com/ThebeLedwaba/AgriEdge)
+> Real-time greenhouse monitoring system with bidirectional hardware control
+
+- ESP32 + DHT22 → MQTT broker → Express.js backend → React/Recharts dashboard
+- Bidirectional control: buzzer, LEDs, LCD messaging, threshold management from UI
+- Dual-state pattern separating device state from user input — no MQTT overwrite conflicts
+- SQLite with WAL mode for reliable local persistence; offline LCD fallback if WiFi drops
+- `C++` `ESP32` `MQTT` `React` `Express.js` `SQLite`
 
 ---
 
-### [Cloud Infrastructure Automation Agent](https://github.com/ThebeLedwaba/CloudDeployer-Self-Healing-Infrastructure)
-Infrastructure-as-Code solution with self-healing cloud deployment capabilities.
-- **Focus:** Automated provisioning, monitoring, and recovery of cloud resources
-- **Stack:** C#, .NET, Azure SDK, Terraform, Docker
+###  [ShedSmart](https://github.com/ThebeLedwaba/ShedSmart)
+> LSTM-based load-shedding stage forecaster for South Africa
+
+- 43,824 hourly Eskom observations (2018–2023), 16 engineered features
+- Stacked LSTM (128→64 units), grid-search tuning over 12 combinations, TimeSeriesSplit CV
+- Honest analysis of distribution shift failure — trained on low-severity years, tested on 2023 crisis
+- `Python` `TensorFlow` `Keras` `LSTM` `Time-Series` `Eskom`
 
 ---
 
-### [Secure IoT Telemetry Bridge](https://github.com/ThebeLedwaba/Secure-IoT-Telemetry-Bridge-for-Industrial-Environments)
-A secure middleware layer for industrial IoT environments handling protocol translation and data integrity.
-- **Stack:** Python, MQTT, REST APIs, Linux
+###  [SkillMap ZA](https://github.com/ThebeLedwaba/SkillMap-ZA)
+> NLP-powered SA job market analyser
+
+- TF-IDF vectorisation → KMeans clustering → PCA dimensionality reduction
+- Interactive React/Recharts dashboard mapping demand across tech roles
+- `Python` `scikit-learn` `React` `Recharts` `NLP`
 
 ---
 
-### [CI/CD Node.js Application](https://github.com/ThebeLedwaba/CI-CD-node.js-App)
-A demonstration of modern DevOps practices with automated build, test, and deployment pipelines.
-- **Stack:** Node.js, GitHub Actions, Docker
+###  [AuraRent](https://github.com/ThebeLedwaba/-AuraRent)
+> PropTech SaaS for rental management (co-founded, sole technical owner)
+
+- Full-stack: React + Node.js + PostgreSQL + Paystack payment integration
+- Lease management, tenant portal, automated payment tracking
+- `TypeScript` `React` `Node.js` `PostgreSQL` `Paystack`
 
 ---
 
-## Work Experience
+###  [Smart Printer Monitoring System](https://github.com/ThebeLedwaba/smartPrinterSystem)
+> Real-time device fleet monitoring via SNMP
 
-**Graduate Software Developer — Backend & Automation** *(1 Year Corporate Internship)*
-- Developed and maintained REST APIs in a large corporate engineering environment
-- Built and maintained CI/CD pipelines for automated deployment workflows
-- Implemented test automation suites using Selenium and Pytest
-- Administered Linux servers and managed database operations
-- Collaborated using Git version control in an Agile team environment
+- Python/Flask backend with SNMP polling and PostgreSQL telemetry history
+- React dashboard for live printer health, alerts, and usage analytics
+- `Python` `Flask` `React` `SNMP` `PostgreSQL`
 
 ---
 
-## Education & Certifications
+## Tech Stack
 
-| Qualification | Institution | Status |
-|---|---|---|
-| Advanced Diploma —  Computer Systems Engineering| — | In Progress (2026) |
-| Diploma — Computer Systems Engineering| — | Completed |
-| CCNA — Cisco Certified Network Associate | Cisco | Completed |
-| AZ-204 — Azure Developer Associate | Microsoft | In Progress |
-| PLC Automation | — | Completed |
+### Embedded & Systems
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![AVR Assembly](https://img.shields.io/badge/AVR_Assembly-darkred?style=flat-square)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-brightgreen?style=flat-square)
+
+### Software & Web
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+### ML & Data
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+### DevOps & Cloud
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
 ## GitHub Stats
 
-![Thebe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThebeLedwaba&show_icons=true&theme=default&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThebeLedwaba&layout=compact&theme=default)
+<div align="center">
+
+[![Thebe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThebeLedwaba&show_icons=true&theme=github_dark&rank_icon=github&hide_border=true)](https://github.com/ThebeLedwaba)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThebeLedwaba&layout=compact&theme=github_dark&hide_border=true)](https://github.com/ThebeLedwaba)
+
+</div>
 
 ---
 
-## Let's Connect
+## What I'm Building Toward
 
-I am actively seeking junior Software Engineering opportunities in Johannesburg and open to relocation. If you are looking for an engineer who combines software development depth with systems-level thinking, I would welcome the conversation.
+-  Completing my Advanced Diploma thesis (Smart Hydroponics) — 2026
+-  Deepening ML/data engineering skills alongside embedded systems
+-  Long-term target: automotive embedded engineering (EU/DE market)
+-  ECSA Candidate Technologist registration post-graduation
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/thebe-ledwaba)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:thebeledwaba@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=react)](https://thebeledwabawebsite.netlify.app)
+---
+
+<div align="center">
+
+*Open to graduate roles in Software Engineering, Embedded Systems, and ML — let's talk.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thebe-ledwaba)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thebeledwaba@gmail.com)
+
+</div>
