@@ -2,7 +2,7 @@
 
 # Thebe Ledwaba
 
-### Software Engineer · Embedded Systems · ML & Data
+### Cloud & DevOps Engineer · Systems & Full-Stack Automation
 
 **Johannesburg, South Africa &nbsp;|&nbsp; Open to Relocation**
 
@@ -15,105 +15,102 @@
 
 ## About Me
 
-Final-year **Advanced Diploma student in Computer Systems Engineering** (NQF 7) at Vaal University of Technology, with ~1 year of corporate experience building industrial IoT systems at **Scaw Metals Group** (ESP32, MQTT, REST APIs, MariaDB).
+Azure-certified (**AZ-204, AZ-900**) and **CCNA** Cloud & DevOps Engineer building CI/CD pipelines, cloud architectures, and full-stack systems that scale. Final-year Computer Systems Engineering student graduating in 2026.
 
-I work across the full stack — from bare-metal firmware and RTOS design to cloud-connected backends and ML pipelines. My strength is building systems end-to-end, not just writing code in isolation.
+At **Scaw Metals Group**, I built an industrial IoT platform monitoring 500+ production assets (ESP32, MQTT, REST APIs, CI/CD). I also co-founded **AuraRent**, a live PropTech SaaS platform processing real transactions where I own the full-stack cloud architecture.
 
--  **Embedded:** ESP32, STM32, AVR — bare-metal C, FreeRTOS, custom RTOS from scratch
--  **Full-Stack:** React, Node.js, Python/FastAPI/Flask, PostgreSQL, Docker, Azure
--  **ML & Data:** TensorFlow/Keras, TF-IDF, KMeans, LSTM/GRU time-series forecasting
--  **Protocols:** MQTT, SPI, I2C, UART, CAN, REST, ESP-NOW
--  **Certs:** CCNA · AZ-900 · IKM Embedded C (97th percentile)
+Underneath it all is a systems engineering foundation that reaches bare metal—including **ThebeRTOS**, a preemptive RTOS built from scratch in C and AVR assembly. That low-level depth shapes how I design cloud systems: I know what’s actually happening under the abstraction layer.
+
+- **Cloud & DevOps:** Azure (AZ-204, AZ-900), CI/CD, Docker, GitHub Actions, Infrastructure Automation, Networking (CCNA)
+- **Full-Stack & Cloud Architecture:** Node.js, React, Python/FastAPI, PostgreSQL, Paystack API, REST APIs
+- **Low-Level Systems & IoT:** ESP32, MQTT, C, C++, AVR Assembly, RTOS Design
+- **Certifications:** Microsoft Certified: Azure Developer Associate (AZ-204) · Azure Fundamentals (AZ-900) · Cisco CCNA
 
 ---
 
 ## Featured Projects
 
-###  [ThebeRTOS-AVR](https://github.com/ThebeLedwaba/ThebeRTOS-AVR)
-> Preemptive RTOS built from scratch for ATmega328P in C and AVR assembly
+### [AuraRent](https://github.com/ThebeLedwaba/-AuraRent)
+> Live PropTech SaaS platform for rental management (Co-founder & Lead Architect)
 
-- Priority-based round-robin scheduler with full context switching
-- IPC primitives: mutex with priority inheritance, semaphores, message queues
-- Stack canary detection, zero dynamic allocation, deterministic memory model
-- `C` `AVR Assembly` `ATmega328P` `Embedded Systems`
+- Architected and deployed full-stack cloud system processing production tenant transactions
+- Integrated Paystack payments, automated ledger tracking, and secure multi-tenant role-based access
+- Built containerised backend using Node.js, Express, PostgreSQL, and React frontend
+- `TypeScript` `React` `Node.js` `PostgreSQL` `Paystack` `Cloud Architecture`
 
 ---
 
-###  [AgriEdge](https://github.com/ThebeLedwaba/AgriEdge)
-> Real-time greenhouse monitoring system with bidirectional hardware control
+### [CI-CD-node.js-App](https://github.com/ThebeLedwaba/CI-CD-node.js-App)
+> Automated continuous integration and deployment pipeline for a Node.js web application
 
-- ESP32 + DHT22 → MQTT broker → Express.js backend → React/Recharts dashboard
-- Bidirectional control: buzzer, LEDs, LCD messaging, threshold management from UI
-- Dual-state pattern separating device state from user input — no MQTT overwrite conflicts
-- SQLite with WAL mode for reliable local persistence; offline LCD fallback if WiFi drops
+- Configured GitHub Actions workflows for automated code testing, linting, and build validation on every push
+- Implemented automated deployment strategies to containerized/cloud environments with zero-downtime release flows
+- Managed environment secrets, pipeline triggers, and dependency caching to optimize CI/CD run times
+- `Node.js` `GitHub Actions` `CI/CD` `Docker` `DevOps`
+
+---
+
+### Industrial IoT Platform
+> Asset monitoring pipeline deployed at Scaw Metals Group
+
+- Built and deployed telemetry pipeline monitoring 500+ heavy industrial production assets in real-time
+- Engineered ESP32 edge nodes communicating over MQTT to containerised REST API backend
+- Set up automated deployment pipelines ensuring high uptime across shop floor operations
+- `ESP32` `MQTT` `REST API` `Docker` `CI/CD` `MariaDB`
+
+---
+
+### [ThebeRTOS-AVR](https://github.com/ThebeLedwaba/ThebeRTOS-AVR)
+> Preemptive RTOS kernel built from scratch in C and AVR assembly
+
+- Priority-based preemptive scheduler with deterministic context switching on ATmega328P (2KB SRAM)
+- Mutexes with priority inheritance, semaphores, and canary-based stack overflow guardrail
+- Zero dynamic allocation memory model ensuring predictable cloud-edge execution
+- `C` `AVR Assembly` `ATmega328P` `Embedded Systems` `Kernel Design`
+
+---
+
+### [Development of a Smart Agricultural Hydroponics Automation System](https://github.com/ThebeLedwaba/AgriEdge)
+> Cloud-connected greenhouse monitoring and control system
+
+- Real-time sensor processing pipeline (ESP32 → MQTT Broker → Express.js backend → React Dashboard)
+- Bidirectional device control pattern eliminating state sync conflicts over web sockets
+- Local SQLite WAL persistence fallback ensuring telemetry continuity during internet drops
 - `C++` `ESP32` `MQTT` `React` `Express.js` `SQLite`
 
 ---
 
-###  [ShedSmart](https://github.com/ThebeLedwaba/ShedSmart)
-> LSTM-based load-shedding stage forecaster for South Africa
+### [SkillMap ZA](https://github.com/ThebeLedwaba/SkillMap-ZA)
+> NLP job market automation and skill cluster analyzer
 
-- 43,824 hourly Eskom observations (2018–2023), 16 engineered features
-- Stacked LSTM (128→64 units), grid-search tuning over 12 combinations, TimeSeriesSplit CV
-- Honest analysis of distribution shift failure — trained on low-severity years, tested on 2023 crisis
-- `Python` `TensorFlow` `Keras` `LSTM` `Time-Series` `Eskom`
-
----
-
-###  [SkillMap ZA](https://github.com/ThebeLedwaba/SkillMap-ZA)
-> NLP-powered SA job market analyser
-
-- TF-IDF vectorisation → KMeans clustering → PCA dimensionality reduction
-- Interactive React/Recharts dashboard mapping demand across tech roles
+- TF-IDF vectorisation → KMeans clustering → PCA dimensionality reduction pipeline
+- Web analytics dashboard mapping demand trends across South African tech sectors
 - `Python` `scikit-learn` `React` `Recharts` `NLP`
-
----
-
-###  [AuraRent](https://github.com/ThebeLedwaba/-AuraRent)
-> PropTech SaaS for rental management (co-founded, sole technical owner)
-
-- Full-stack: React + Node.js + PostgreSQL + Paystack payment integration
-- Lease management, tenant portal, automated payment tracking
-- `TypeScript` `React` `Node.js` `PostgreSQL` `Paystack`
-
----
-
-###  [Smart Printer Monitoring System](https://github.com/ThebeLedwaba/smartPrinterSystem)
-> Real-time device fleet monitoring via SNMP
-
-- Python/Flask backend with SNMP polling and PostgreSQL telemetry history
-- React dashboard for live printer health, alerts, and usage analytics
-- `Python` `Flask` `React` `SNMP` `PostgreSQL`
 
 ---
 
 ## Tech Stack
 
-### Embedded & Systems
+### Cloud, DevOps & Infrastructure
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+
+### Backend & Cloud Architecture
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+
+### Low-Level & IoT Engineering
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![AVR Assembly](https://img.shields.io/badge/AVR_Assembly-darkred?style=flat-square)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-brightgreen?style=flat-square)
-
-### Software & Web
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-### ML & Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-### DevOps & Cloud
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
 
 ---
 
@@ -128,18 +125,9 @@ I work across the full stack — from bare-metal firmware and RTOS design to clo
 
 ---
 
-## What I'm Building Toward
-
--  Completing my Advanced Diploma thesis (Smart Hydroponics) — 2026
--  Deepening ML/data engineering skills alongside embedded systems
--  Long-term target: automotive embedded engineering (EU/DE market)
--  ECSA Candidate Technologist registration post-graduation
-
----
-
 <div align="center">
 
-*Open to graduate roles in Software Engineering, Embedded Systems, and ML — let's talk.*
+*Open to Junior Cloud Engineering, DevOps, or Software Engineering roles.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thebe-ledwaba)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thebeledwaba@gmail.com)
