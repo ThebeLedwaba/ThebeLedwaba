@@ -30,13 +30,18 @@ Underneath it all is a systems engineering foundation that reaches bare metal—
 
 ## Featured Projects
 
-### [AuraRent](https://github.com/ThebeLedwaba/-AuraRent)
+### [AuraRent](https://github.com/ThebeLedwaba/AuraRent)
 > Live PropTech SaaS platform for rental management (Co-founder & Lead Architect)
 
 - Architected and deployed full-stack cloud system processing production tenant transactions
 - Integrated Paystack payments, automated ledger tracking, and secure multi-tenant role-based access
 - Built containerised backend using Node.js, Express, PostgreSQL, and React frontend
-- `TypeScript` `React` `Node.js` `PostgreSQL` `Paystack` `Cloud Architecture`
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ---
 
@@ -46,7 +51,10 @@ Underneath it all is a systems engineering foundation that reaches bare metal—
 - Configured GitHub Actions workflows for automated code testing, linting, and build validation on every push
 - Implemented automated deployment strategies to containerized/cloud environments with zero-downtime release flows
 - Managed environment secrets, pipeline triggers, and dependency caching to optimize CI/CD run times
-- `Node.js` `GitHub Actions` `CI/CD` `Docker` `DevOps`
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
@@ -56,7 +64,11 @@ Underneath it all is a systems engineering foundation that reaches bare metal—
 - Built and deployed telemetry pipeline monitoring 500+ heavy industrial production assets in real-time
 - Engineered ESP32 edge nodes communicating over MQTT to containerised REST API backend
 - Set up automated deployment pipelines ensuring high uptime across shop floor operations
-- `ESP32` `MQTT` `REST API` `Docker` `CI/CD` `MariaDB`
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
 ---
 
@@ -66,7 +78,10 @@ Underneath it all is a systems engineering foundation that reaches bare metal—
 - Priority-based preemptive scheduler with deterministic context switching on ATmega328P (2KB SRAM)
 - Mutexes with priority inheritance, semaphores, and canary-based stack overflow guardrail
 - Zero dynamic allocation memory model ensuring predictable cloud-edge execution
-- `C` `AVR Assembly` `ATmega328P` `Embedded Systems` `Kernel Design`
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![AVR Assembly](https://img.shields.io/badge/AVR_Assembly-8B0000?style=flat-square)
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-00599C?style=flat-square)
 
 ---
 
@@ -76,7 +91,11 @@ Underneath it all is a systems engineering foundation that reaches bare metal—
 - Real-time sensor processing pipeline (ESP32 → MQTT Broker → Express.js backend → React Dashboard)
 - Bidirectional device control pattern eliminating state sync conflicts over web sockets
 - Local SQLite WAL persistence fallback ensuring telemetry continuity during internet drops
-- `C++` `ESP32` `MQTT` `React` `Express.js` `SQLite`
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ---
 
@@ -85,7 +104,10 @@ Underneath it all is a systems engineering foundation that reaches bare metal—
 
 - TF-IDF vectorisation → KMeans clustering → PCA dimensionality reduction pipeline
 - Web analytics dashboard mapping demand trends across South African tech sectors
-- `Python` `scikit-learn` `React` `Recharts` `NLP`
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ---
 
@@ -101,7 +123,7 @@ Underneath it all is a systems engineering foundation that reaches bare metal—
 ### Backend & Cloud Architecture
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
 
